@@ -30,3 +30,10 @@ API で使用するための問い合わせ言語
 ## 総括
 
 - REST は静的、GraphQL は動的
+
+# GraphiQL（グラフィクル）
+
+- URL<br>
+  https://docs.github.com/ja/graphql/overview/explorer
+- git <br>
+  https://github.com/graphql/graphiql
