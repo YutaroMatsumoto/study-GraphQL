@@ -2,13 +2,15 @@
 
 ```
 // 以下のコードだとメンテナンス性が悪い
-user1: user(login: "YutaroMatsumoto"){
+{
+  user1: user(login: "YutaroMatsumoto"){
     bio
     login
-}
-user2: user(login: "a"){
-  bio
-  login
+  }
+  user2: user(login: "a"){
+    bio
+    login
+  }
 }
 ```
 
